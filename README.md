@@ -15,6 +15,5 @@ This project involves creating a React-based application that allows users to up
 ## Technologies
 
 - **Frontend**: React
-- **Cloud Storage**: Firebase Storage
 - **State Management**: React Hooks (useState)
   
